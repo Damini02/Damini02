@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 - Reach Out To Me 💬
    
   -  [Linkedin](https://www.linkedin.com/in/damini-bisen-6318761a6)
-
+  
+  - [Twitter](https://mobile.twitter.com/_urstrulymini)
 </hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Damini02&show_icons=true&locale=en&layout=compact" alt="Damini02" /></p>
