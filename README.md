@@ -21,10 +21,7 @@ You can click the Preview link to take a look at your changes.
   - [Twitter](https://mobile.twitter.com/_urstrulymini)
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Damini02&show_icons=true&locale=en&layout=compact" alt="Damini02" /></p>
 
-<br/>
-<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damini02&show_icons=true&locale=en" alt="Damini02" /></p>
 
 <br/>
