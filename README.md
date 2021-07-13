@@ -1,6 +1,6 @@
 
 <!---
-Damini20/Damini20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Damini02/Damini02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damini20&show_icons=true&locale=en" alt="Damini20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damini02&show_icons=true&locale=en" alt="Damini02" /></p>
 
 <br/>
   
