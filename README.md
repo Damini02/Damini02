@@ -9,9 +9,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <b> I am Damini Bisen, a pre-final year student.</b> </p>
 <p align="center"> <b> I am currently pursuing B.Tech in Computer science and engineering. </b> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Damini20" alt="Damini20" /> </p>
-
-
 <hr>
 
 - Reach Out To Me 💬
