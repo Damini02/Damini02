@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">  Hi there! 👋 </p>
 
-<p align="center"> <b> I am Damini Bisen, a pre-final year student.</b> </p>
+<p align="center"> <b> I am Damini Bisen, a final year student.</b> </p>
 <p align="center"> <b> I am currently pursuing B.Tech in Computer science and engineering. </b> </p>
 
 <hr>
